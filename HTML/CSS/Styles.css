@@ -1,0 +1,69 @@
+body {
+    font-family: 'Raleway', sans-serif;
+}
+.float-left {
+    float: left;
+    margin-left: 40px;
+    margin-top: 10px;
+} 
+.float-right {
+    float: right;
+    margin-right: 10px;
+}
+
+.float-right a{
+    margin-right: 10px;
+}
+
+.float-left a {
+    margin-right: 10px;
+}
+.v1
+{
+border-left: 20px solid green;
+height: 550px;
+position:absolute;
+left:14%;
+margin-left: -3px;
+margin-top: 70px;
+}
+.img
+{
+    width:400px;
+    height:400px;
+    position: absolute;
+    left:10;
+    top:60;
+}
+.img1
+{
+    width:400px;
+    height:400px;
+    position: absolute;
+    left:10;
+    top:90;
+}
+.header {
+    background-color: rgb(236, 181, 130);
+    height: 50px;
+}
+h1 {
+  text-align: center;  
+}
+
+.content-container {
+    width: 800px;
+    margin: auto;
+    text-align: justify;
+    text-indent: 30px;
+}
+
+.footer {
+    text-align: center;
+    position: relative;
+    top: 310px;
+}
+
+a {
+    text-decoration: none;
+}
